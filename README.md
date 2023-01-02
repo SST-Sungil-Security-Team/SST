@@ -15,4 +15,4 @@
 # CTF, 대회
 - Wacon 2022 
 - 2022 JBU CTF - 23rd
-- 사이버가디언즈 CTF - ?rd
+- 사이버가디언즈 CTF - 공동 6rd
