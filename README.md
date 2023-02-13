@@ -1,6 +1,6 @@
 # SST
 
-### 이 SST 에서는 보안 관련 프로젝트를 진행하며 각종 워게임 풀이가 올라옵니다.
+### Sungil Security Team , 성일정보고등학교 보안 팀.
 
 #### 멤버
 - [박동유](https://github.com/dypar33)
@@ -15,4 +15,4 @@
 # CTF, 대회
 - Wacon 2022 
 - 2022 JBU CTF - 23rd
-- 사이버가디언즈 CTF - 공동 6rd
+- 사이버가디언즈 CTF - 본선 진출
