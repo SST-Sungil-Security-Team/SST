@@ -11,7 +11,7 @@
 
 # 프로젝트
 - [SST_Crypto](https://github.com/SST-Sungil-Security-Team/SST_Crypto)
-- [SST_Crypto](https://github.com/SST-Sungil-Security-Team/SST_B64)
+- [SST_B64](https://github.com/SST-Sungil-Security-Team/SST_B64)
 
 # CTF, 대회
 - 2022 JBU CTF - 23rd
