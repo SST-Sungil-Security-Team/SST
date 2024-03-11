@@ -10,9 +10,4 @@
 - [박재우](https://github.com/2005Payne)
 
 # 프로젝트
-- [SST_Crypto](https://github.com/SST-Sungil-Security-Team/SST_Crypto)
 - [SST_B64](https://github.com/SST-Sungil-Security-Team/SST_B64)
-
-# CTF, 대회
-- 2022 JBU CTF - 23rd
-- 사이버가디언즈 CTF - 본선 진출
